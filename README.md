@@ -18,18 +18,18 @@ Ce projet est une implémentation du jeu du **Morpion (Tic-Tac-Toe)** en langage
 ## Installation et Compilation
 1. **Cloner le dépôt** (si applicable) :
    ```sh
-   git clone https://github.com/utilisateur/morpion-c.git
-   cd morpion-c
+   git clone https://github.com/pevansfan/exam-c.git
+   cd examp-c
    ```
 
 2. **Compiler le programme** avec GCC :
    ```sh
-   gcc morpion.c -o morpion
+   gcc -o main.c main
    ```
 
 3. **Exécuter le programme** :
    ```sh
-   ./morpion
+   ./main
    ```
 
 ## Règles du jeu

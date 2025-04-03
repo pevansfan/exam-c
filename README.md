@@ -12,14 +12,14 @@ Ce projet est une implémentation du jeu du **Morpion (Tic-Tac-Toe)** en langage
 - Détection d'une victoire ou d'un match nul.
 
 ## Prérequis
-- Un compilateur C (GCC, Clang, MinGW, etc.).
+- Un compilateur C (GCC).
 - Un terminal pour exécuter le programme.
 
 ## Installation et Compilation
 1. **Cloner le dépôt** (si applicable) :
    ```sh
    git clone https://github.com/pevansfan/exam-c.git
-   cd examp-c
+   cd exam-c
    ```
 
 2. **Compiler le programme** avec GCC :
